@@ -2,7 +2,7 @@
 
 Still missing a few features. For now, please run ``` whois <IP> | grep "OrgName" ``` on the results of this script, then you'll be able to takeover the subdomain.
 
-Usage: Please make sure the list of subdomains are in a file called list.txt, and within the same directory as this script.
+**Usage**: Please make sure the list of subdomains are in a file called list.txt, and within the same directory as this script.
 
 ``` python3 takeyouover.py ```
 
